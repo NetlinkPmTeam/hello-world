@@ -1,10 +1,8 @@
 # hello-world
 
-test1
+branch "master"
+is the goal file
 
-patty
-try to make and commit change
+you can creat other branch to change the content
 
-123
-
-456789
+finall, merge the test branch into "master" branch
